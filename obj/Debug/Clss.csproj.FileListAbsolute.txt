@@ -1,0 +1,7 @@
+C:\Users\ymesk\source\repos\Clss\Clss\obj\Debug\Clss.csproj.AssemblyReference.cache
+C:\Users\ymesk\source\repos\Clss\Clss\obj\Debug\Clss.csproj.CoreCompileInputs.cache
+C:\Users\ymesk\source\repos\Clss\Clss\bin\Debug\Clss.exe.config
+C:\Users\ymesk\source\repos\Clss\Clss\bin\Debug\Clss.exe
+C:\Users\ymesk\source\repos\Clss\Clss\bin\Debug\Clss.pdb
+C:\Users\ymesk\source\repos\Clss\Clss\obj\Debug\Clss.exe
+C:\Users\ymesk\source\repos\Clss\Clss\obj\Debug\Clss.pdb
